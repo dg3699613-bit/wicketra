@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "4.1",
-  "apkUrl": "https://github.com/dg3699613-bit/wicketra/releases/download/v4.1/WICKETRA.apk",
-  "notes": "4.1: every live match featured, full commentary history, clean scorecard, venue in Match Info only."
+  "versionCode": 22,
+  "versionName": "4.2",
+  "apkUrl": "https://github.com/dg3699613-bit/wicketra/releases/download/v4.2/WICKETRA.apk",
+  "notes": "4.2: professional ball-by-ball commentary, scores fixed (runs-wickets together), live cards cleaned."
 }
