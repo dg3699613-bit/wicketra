@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "3.4",
-  "apkUrl": "https://github.com/dg3699613-bit/wicketra/releases/download/v3.4/WICKETRA.apk",
-  "notes": "Cleaner cards: venue inside Match Info, toss on the opened scoreboard. News now lands fresh through the direct route. The 'Updated' text is gone."
+  "versionCode": 19,
+  "versionName": "3.5",
+  "apkUrl": "https://github.com/dg3699613-bit/wicketra/releases/download/v3.5/WICKETRA.apk",
+  "notes": "No black screen at open — straight into the light splash. News is settled: latest stories no longer vanish between refreshes."
 }
