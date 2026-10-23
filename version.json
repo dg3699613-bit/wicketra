@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "3.3",
-  "apkUrl": "https://github.com/dg3699613-bit/wicketra/releases/download/v3.3/WICKETRA.apk",
-  "notes": "Scoreboard first; Squads, Match Info and Playing XI behind tap rows. Matches hit Home 30 minutes early with a countdown, go LIVE at the exact start time, with toss and Playing XI updates. Live matches never show 'Upcoming' again."
+  "versionCode": 18,
+  "versionName": "3.4",
+  "apkUrl": "https://github.com/dg3699613-bit/wicketra/releases/download/v3.4/WICKETRA.apk",
+  "notes": "Cleaner cards: venue inside Match Info, toss on the opened scoreboard. News now lands fresh through the direct route. The 'Updated' text is gone."
 }
