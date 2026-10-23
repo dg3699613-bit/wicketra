@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "3.5",
-  "apkUrl": "https://github.com/dg3699613-bit/wicketra/releases/download/v3.5/WICKETRA.apk",
-  "notes": "No black screen at open — straight into the light splash. News is settled: latest stories no longer vanish between refreshes."
+  "versionCode": 20,
+  "versionName": "4.0",
+  "apkUrl": "https://github.com/dg3699613-bit/wicketra/releases/download/v4.0/WICKETRA.apk",
+  "notes": "4.0: full redesign — new identity, match centre tabs, written commentary, automatic updates."
 }
