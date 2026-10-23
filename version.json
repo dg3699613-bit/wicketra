@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "3.1",
-  "apkUrl": "https://github.com/dg3699613-bit/wicketra/releases/download/v3.1/WICKETRA.apk",
-  "notes": "Squads fixed with a new proven route + squad memory. News now loads older stories as you scroll."
+  "versionCode": 16,
+  "versionName": "3.2",
+  "apkUrl": "https://github.com/dg3699613-bit/wicketra/releases/download/v3.2/WICKETRA.apk",
+  "notes": "Squads load directly in-app now — no middleman. Side-by-side squads, visiting team first; Partnerships last in the scorecard."
 }
