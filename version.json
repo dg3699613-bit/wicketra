@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "4.3",
-  "apkUrl": "https://github.com/dg3699613-bit/wicketra/releases/download/v4.3/WICKETRA.apk",
-  "notes": "4.3: WICKETRA's own design language — new LIVE pill, hero scores, over-progress ribbon, versus panel."
+  "versionCode": 24,
+  "versionName": "4.8",
+  "apkUrl": "https://github.com/dg3699613-bit/wicketra/releases/download/v4.8/WICKETRA.apk",
+  "notes": "4.8: Layout refresh, flags for all teams, commentary and results fixes."
 }
