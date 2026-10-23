@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "3.0",
-  "apkUrl": "https://github.com/dg3699613-bit/wicketra/releases/download/v3.0/WICKETRA.apk",
-  "notes": "Squads fixed + big upgrade: Search, series filter, skeleton loading, pull-to-refresh, fresher news order."
+  "versionCode": 15,
+  "versionName": "3.1",
+  "apkUrl": "https://github.com/dg3699613-bit/wicketra/releases/download/v3.1/WICKETRA.apk",
+  "notes": "Squads fixed with a new proven route + squad memory. News now loads older stories as you scroll."
 }
