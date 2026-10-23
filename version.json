@@ -1,1 +1,6 @@
-{"versionCode": 12, "versionName": "2.1", "apkUrl": "https://github.com/dg3699613-bit/wicketra/releases/download/v2.1/WICKETRA.apk", "notes": "All matches added: full upcoming fixtures for two months, live and completed."}
+{
+  "versionCode": 13,
+  "versionName": "2.2",
+  "apkUrl": "https://github.com/dg3699613-bit/wicketra/releases/download/v2.2/WICKETRA.apk",
+  "notes": "Squads added — announced teams show verified players, others show Coming Soon. News order and times fixed; header clock removed."
+}
