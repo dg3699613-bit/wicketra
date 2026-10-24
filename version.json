@@ -1,6 +1,1 @@
-{
-  "versionCode": 24,
-  "versionName": "4.8",
-  "apkUrl": "https://github.com/dg3699613-bit/wicketra/releases/download/v4.8/WICKETRA.apk",
-  "notes": "4.8: Layout refresh, flags for all teams, commentary and results fixes."
-}
+{"versionCode": 29, "versionName": "5.3", "apkUrl": "https://github.com/dg3699613-bit/wicketra/releases/download/v5.3/WICKETRA.apk", "notes": "CricAPI live data, paginated lists, 24h Upcoming with countdown, premium scorecard."}
